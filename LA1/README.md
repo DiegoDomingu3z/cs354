@@ -8,7 +8,6 @@
 
 
 ## Overview
-This assignment implements recursive functions in Scheme:
 
 - **`consN`** – repeats an item by count times in front of a list  
 - **`duper`** – duplicates each element of a list by param count  
